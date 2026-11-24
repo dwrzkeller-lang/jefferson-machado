@@ -1,7 +1,5 @@
 # Jefferson Machado · Engenheiro civil
 
-Site de portfólio (versão de testes).
+Site desativado (fora do ar) em 24/11/2026.
 
-No ar: https://dwrzkeller-lang.github.io/jefferson-machado/
-
-Feito por NORTECH Soluções.
+A versão anterior do site continua no histórico deste repositório e pode ser restaurada.
